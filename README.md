@@ -1,2 +1,8 @@
 # ECC
-Notes on EllipticCurves for Developers
+Notes on EllipticCurves for Developers.
+
+
+
+## References:
+- https://cryptobook.nakov.com/
+- 
